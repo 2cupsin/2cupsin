@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2cupsin
-- 👀 I’m interested in aquiring tech skills after years of resisting
+- 👀 I’m interested in acquiring tech skills after years of resisting
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ... nothing, for now!
 - 📫 How to reach me ...
